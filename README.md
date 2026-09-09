@@ -1,4 +1,4 @@
 # gitdemo
 this is my demo repo
 <br>
-Author-dikshitha
+Author-dikshitha Dumala
